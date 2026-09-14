@@ -1,0 +1,6 @@
+sample,particle_type,particle_size_um,lignin_pct,chitosan_pct,L,a,b,dE_wash_1st,dE_wash_3rd,dE_wash_pH9,rub_dry,rub_wet
+BML2,BML,4.3,2,0.4,66.6,8.2,22.4,3.3,5.1,0.3,4.5,4.0
+BML4,BML,4.3,4,0.4,58.2,10.6,26.3,4.0,7.8,0.9,4.5,3.5
+USL2,USL,12.0,2,0.4,68.1,8.3,22.1,3.2,6.3,0.8,4.5,4.0
+CLNP2,CLNP,0.1375,2,0.4,71.1,7.0,21.9,2.8,5.1,0.7,5.0,4.5
+BML2ref,BML,4.3,2,0.0,71.2,7.8,20.9,7.7,15.9,1.8,4.5,4.0
